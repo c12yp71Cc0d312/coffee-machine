@@ -1,2 +1,2 @@
 # coffee-machine
-First projeect
+First project
